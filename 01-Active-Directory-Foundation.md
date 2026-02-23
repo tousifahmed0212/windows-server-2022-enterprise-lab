@@ -60,7 +60,7 @@ This lab simulates a small enterprise corporate environment operating within a c
     
 -   DNS Server: 192.168.10.10 (DC01)
 **Screenshot – Network Design**  
-![Topology](Diagrams/[01-Network-Design.png])    
+![Topology](Diagrams/01-Network-Design.png])    
 This environment simulates an isolated corporate LAN infrastructure.
 
 ----------
