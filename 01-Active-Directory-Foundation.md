@@ -61,6 +61,7 @@ This lab simulates a small enterprise corporate environment operating within a c
 -   DNS Server: 192.168.10.10 (DC01)
 **Screenshot – Network Design**  
 ![Network Design](Diagrams/01-Network-Design.png) 
+
 This environment simulates an isolated corporate LAN infrastructure.
 
 ----------
@@ -231,6 +232,7 @@ Returned:
 corp\itone
 **Screenshot – CL01 System Properties**  
 ![CL01 System Properties](Screenshots/10-Domain-Join-Sytem-Propeties.PNG)
+
 **Screenshot – whoami Output**  
 ![whoami Output](Screenshots/11-whoami-Output.PNG)
 
