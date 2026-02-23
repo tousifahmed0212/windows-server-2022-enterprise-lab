@@ -230,8 +230,9 @@ whoami
 
 Returned:  
 corp\itone
+
 **Screenshot – CL01 System Properties**  
-![CL01 System Properties](Screenshots/10-Domain-Join-Sytem-Propeties.PNG)
+![CL01 System Properties](Screenshots/10-Domain-Join-Sytem-Properties.PNG)
 
 **Screenshot – whoami Output**  
 ![whoami Output](Screenshots/11-whoami-Output.PNG)
